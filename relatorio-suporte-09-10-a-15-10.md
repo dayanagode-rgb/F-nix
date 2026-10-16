@@ -121,9 +121,26 @@ Semana anterior: login bloqueado por localização/VPN (~75), PDF e material das
 
 ## 6. Extras
 
-- **Reembolsos solicitados:** ___ (semana anterior: 38, com 36 estornados automaticamente).
+- **Reembolsos solicitados:** 21, segundo os relatórios individuais dos atendentes. Na semana anterior foram 38, mas aquele número veio do sistema e este vem do que cada atendente informou, então a comparação é só uma referência.
+  - **Por dia:** 09/10: 3 · 10/10: 1 · 11/10: 12 · 12/10: 1 · 13/10: 1 · 14/10: 2 · 15/10: 1.
+  - **Pico em 11/10:** 12 reembolsos, sendo 3 do Isaque e 9 do relatório da madrugada do Kawan, sem motivo informado. O relatório do Kawan está com data de 11/10, mas foi enviado às 05:52 do dia 12/10 (turno de madrugada, 1h às 3h).
+  - **Motivos:**
+    - Cobrança (parcelamento incorreto, cobrança indevida e cobrança duplicada): 3.
+    - Compra de outro produto, ou "vai comprar o curso completo": 3, todos em 09/10.
+    - Não gostou da didática ou não se acostumou: 2.
+    - Trocar de turma: 2, ambos em 14/10.
+    - Não conseguiu entrar no grupo: 1.
+    - Esperava filtro de PMERJ no banco de questões: 1.
+    - Motivo não informado: 9, todos do relatório da madrugada do Kawan.
+  - **Produto:** 19 foram da mentoria (ESA, EsPCEx, EEAR e outras), 1 do curso de português e 1 do banco de questões.
+  - **Evitado:** 1 reembolso, em 12/10. O David verificou que o aluno não conseguia entrar no grupo porque ainda não tinha feito a segunda opção do bot.
 - **Pendentes da semana anterior:** o auto-estorno que falhou no Asaas e o caso bloqueado no antifraude (3º reembolso do mesmo CPF). Confirmar se foram resolvidos.
-- **Horários de maior demanda:** ___ (semana anterior: das 11h às 21h, com pico às 12h).
+- **Horários de maior demanda** (pelos relatórios dos atendentes; semana anterior: das 11h às 21h, com pico às 12h):
+  - **Noite, das 18h às 22h:** é o maior pico da semana. Aparece nos relatórios de 09/10 e de 10 a 15/10, com o mais intenso entre 19h e 21h em 09/10 e entre 20h e 22h de 13/10 a 15/10. Os maiores volumes individuais da semana saíram desse turno: Italo com 103 em 12/10 e 97 em 10/10.
+  - **Meio-dia, das 10h às 13h:** segundo pico. Em 13/10 e 14/10 ficou entre 12h e 13h, e em 12/10 e 14/10 entre 10h e 11h.
+  - **Tarde, das 14h às 17h:** pico na sexta 09/10 (14h às 16h) e no sábado 10/10 (15h às 17h). No sábado, esse pico coincide com o horário em que David e Ibrahim ficaram online (15h) e com a brecha que gerou os SLAs.
+  - **Madrugada, das 5h às 8h:** pico do turno do Isaque, mais intenso entre 6h e 8h. Houve também movimento de 0h às 3h na madrugada de 12/10, no turno do Kawan.
+  - **Mudança em relação à semana anterior:** o pico ficou mais forte à noite (19h às 22h) do que ao meio-dia.
 - **Mês anterior (09/09 a 15/09):** sem dados, então não entrou na comparação.
 
 ## Pontos para conferir antes de enviar
