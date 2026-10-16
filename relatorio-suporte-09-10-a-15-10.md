@@ -49,7 +49,7 @@ Cerca de 20 SLAs não aparecem na linha de nenhum atendente (chamados "fora da c
 | Esperas respondidas | 5.380 | 4.719 |
 | Dia de pico | 15/10 (1.064 esperas) | 06/10 (950) |
 | SLAs fechados sem resposta | 18 | — |
-| Chats abertos / pendentes / SLA estourado agora (15/10) | 4 / 0 / 0 | — |
+| Chats abertos / pendentes / SLA estourado agora (painel de 15/10) | 3 / 1 / 0 | — |
 
 **Leitura:**
 - **SLA:** caíram 19% em relação à semana anterior (de 253 para 205), e a taxa passou de 5,4% para 3,8%.
@@ -81,7 +81,7 @@ Semana anterior: 02/10: 8 · 03/10: 38 · 04/10: 56 · 05/10: 30 · 06/10: 16 ·
   - **Sábado 10/10:** David e Ibrahim ficaram online só às 15h, e todas as conversas acumuladas foram encaminhadas para os dois e para o outro operador.
   - **Domingo 11/10:** o primeiro turno ficou só com o Wanderson, e o Isaque assumiu depois.
   - **Segunda 12/10:** o acúmulo entre a troca de operadores ainda gerou SLAs.
-- **Recuperação:** a partir de 13/10 a operação normalizou e a semana fechou com 5 SLAs em 15/10.
+- **Recuperação:** a partir de 13/10 a operação normalizou. Em 15/10 foram 5 SLAs em 1.064 esperas, com 1ª resposta e tempo de resposta de 2 min, e 310 conversas no dia (−8,6% vs. o período anterior).
 
 ## 4. Plano de correção por atendente
 
@@ -132,4 +132,4 @@ Semana anterior: login bloqueado por localização/VPN (~75), PDF e material das
 - **14/10:** o texto do resumo cita 18 SLAs e a última linha cita 7. Usei 7, que é o que a tabela soma.
 - **"Fechadas sem resposta" por dia:** os relatórios diários somam mais que as 18 do painel da semana. Mantive só as 18.
 - **SLAs por atendente:** somam 185 dos 205, e a diferença são chamados "fora da central" e "sem dono".
-- **Dados do dia 15/10:** a linha do Wanderson veio cortada. Os números dele no ranking vêm do painel da semana.
+- **Dia 15/10:** os atendentes somam 4 dos 5 SLAs do dia, e o outro não está na linha de ninguém. Wanderson zerou SLAs nesse dia, com médias de 2 min.
